@@ -9,3 +9,5 @@ class RandomData:
     user_name = 'ABC12^$k'
     email = f'practikum{randint(0, 999)}@gmail.com'
     password = f'AS{randint(1000, 9999)}#g'
+class Texts:
+    ORDER_BUTTON_TEXT = 'Оформить заказ'
